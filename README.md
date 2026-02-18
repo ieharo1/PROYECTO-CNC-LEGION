@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚙️ PROYECTO-CNC-LEGION
 
-## Getting Started
+Proyecto Next.js para aplicación web desarrollado por **Isaac Esteban Haro Torres**.
 
-First, run the development server:
+---
+
+## 📝 Descripción
+
+Aplicación web desarrollada con Next.js para el proyecto CNC LEGION.
+
+---
+
+## ✨ Características
+
+- Renderizado del lado del servidor (SSR)
+- SEO optimizado
+- API Routes
+- Diseño responsive
+- Alta performance
+
+---
+
+## 🛠️ Stack Tecnológico
+
+- Next.js
+- React
+- TypeScript
+- Node.js
+
+---
+
+## 🚀 Configuración y Ejecución
 
 ```bash
+# Instalar dependencias
+npm install
+
+# Ejecutar desarrollo
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Compilar producción
+npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-## Learn More
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
